@@ -49,3 +49,7 @@ To run this project locally, follow these steps:
    ```
 
 Thank you for visiting my portfolio! I hope you enjoy exploring my work.
+
+
+The live server to the project is as follows:->
+https://portfolio-rohan-garg.onrender.com/
