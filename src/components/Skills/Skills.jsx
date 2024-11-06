@@ -15,7 +15,7 @@ const Skills = () => {
         <div className="sections">
             <div className="cpp">
                 <img src={cpp} alt="C++" />
-                <p>C++ is one of the important and famous coding languages. I am currently practicing Competative Programming on the Codeforces (Rating: 1366) | CodeChef (Rating: 1524) | Atcoder (Rating: 712).</p>
+                <p>C++ is one of the important and famous coding languages. I am currently practicing Competative Programming on the Codeforces (Rating: 1441) | CodeChef (Rating: 1524) | Atcoder (Rating: 712).</p>
             </div>
             <div className="python">
                 <img src={python} alt="PYTHON" />
