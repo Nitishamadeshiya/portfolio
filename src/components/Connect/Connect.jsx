@@ -40,13 +40,11 @@ const Connect = () => {
             <button className="submit" type='submit' value="send">Submit</button>
         </form>
         <div className="images-contact">
-            <a href="https://www.linkedin.com/in/rohan-garg-1446-/" className="linked" target='_blank'>
+            <a href="https://www.linkedin.com/in/nitishamadeshiya/" className="linked" target='_blank'>
                 <img src={linkedin} className="linkimg" alt='LinkedIn'></img>
             </a>
-            <a href="https://www.instagram.com/rohangarg1446/" className="insta" target='_blank'>
-                <img src={insta} alt="Instagram" className="instaimg"/>
-            </a>
-            <a href="https://github.com/rohangarg-2006" className="github" target='_blank'>
+            
+            <a href="https://github.com/Nitishamadeshiya" className="github" target='_blank'>
                 <img src={github} alt="GitHub" className="githubimg"/>
             </a>
         </div>

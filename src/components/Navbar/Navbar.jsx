@@ -6,7 +6,7 @@ import "./Navbar.css"
 const nav_bar = () => {
   return (
     <nav className="nav_bar">
-        <img src={R_img} alt="R" className="rimage" />
+        {/* <img src={R_img} alt="R" className="rimage" /> */}
         <div className="links">
             <Link activeClass='active' to='AboutME' spy={true} smooth={true} offset={-100} duration={500} className="shortcuts">About Me</Link>
             <Link activeClass='active' to='Skills' spy={true} smooth={true} offset={-100} duration={500} className="shortcuts">Skills</Link>
